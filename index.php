@@ -66,8 +66,6 @@
 
 </form>
 
-<h2> Input</h2>
-
 </body>
 </html>
 
